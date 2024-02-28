@@ -24,3 +24,5 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 ## 技术总图
 ![image](img/process3.png)
 ## 模型处理
+猫角色的模型的的创建主要考虑了三个因素，一是猫咪角色的形象还原，二是摈弃之前游戏创作时一味想体验从建模到骨骼绑定、刷权重、做动画导致的体力时间浪费，三是兼顾性能优化和配合shader毛发片元挤出的质量观感的中低模，决定从网上直接找mesh和骨骼动画合格的产品。  
+原模型在Avator动画传递时发现后腿部变形严重，骨骼绑定需要修改。（还好不算多，否则直接abandon了）
