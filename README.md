@@ -4,6 +4,7 @@
 - [2.策划思路](#策划思路)
 - [3.技术路线](#技术路线)
   - [3.1技术总图](#技术总图)
+  - [3.2模型处理](#模型处理)
 # 游戏简介
 <div align=center>
 <img src=img/figure_steam.png>
@@ -22,3 +23,4 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 # 技术路线
 ## 技术总图
 ![image](img/process3.png)
+## 模型处理
