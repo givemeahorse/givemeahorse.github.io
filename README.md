@@ -46,3 +46,4 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 ![image](img/furshader2.png) 
 ![image](img/shaderPar.png) 
 ![image](img/furshader3.png) 
+初始化毛发效果做好后，也同时留好了调整毛发长度、整体颜色与涂鸦颜色的接口了，之后UGUI控件和涂抹来调整的空间就留给玩家了。
