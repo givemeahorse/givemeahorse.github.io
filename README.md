@@ -43,3 +43,6 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 但是毛发层数是个很耗性能的drawcall，在调整毛发效果时尽量调节间距而不是单纯增加层数，来达到长毛的效果。最终效果和参数代码如下：  
 ![image](img/effect.png)  
 ![image](img/effect1.png)  
+![image](img/furshader2.png) 
+![image](img/shaderPar.png) 
+![image](img/furshader3.png) 
