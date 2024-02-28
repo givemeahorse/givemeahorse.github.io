@@ -15,4 +15,4 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 ![image](img/homescene.jpg)
 ![image](img/planetscene.jpg)
 ![image](img/graffi.jpg)
-![image](img/shop.jpg)
+![image](img/shop1.jpg)
