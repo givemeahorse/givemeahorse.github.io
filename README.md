@@ -41,4 +41,4 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 最后思路：调用基础贴图的像素进行渲染，玩家涂鸦的功能通过外部的baseTexture指定这个shader使用。这样整体颜色、涂鸦颜色的问题可以一起解决。  
 此外毛发长度、毛发疏密、毛发层数直接用参数调用，配合前期的多维子材质分块进行动态调整，就能达到想要的效果了。  
 但是毛发层数是个很耗性能的drawcall，在调整毛发效果时尽量调节间距而不是单纯增加层数，来达到长毛的效果。最终效果如下：  
-
+![image](img/effect.png)  
