@@ -11,6 +11,7 @@
   - [3.6日记记录](#日记记录)
   - [3.7商品交易](#商品交易)
   - [3.8自由探险](#自由探险)
+  - [3.9模块功能](#模块功能)
 # 游戏简介
 <div align=center>
 <img src=img/figure_steam.png>
@@ -87,3 +88,4 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 ![image](img/p4.png) 
 ![image](img/p5.png) 
 ![image](img/p6.png) 
+## 模块功能
