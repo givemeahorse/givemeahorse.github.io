@@ -61,3 +61,4 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 首先给家园场景中生成导航代理的区域作为猫咪的活动空间，为了减少穿模的视觉劣质感，需将Agent区域的半径设置和猫的boundingbox大致一致。之后猫的移动依靠在代理区域内随机生成坐标位置驱动Agent的SetDestination来代理猫咪进行移动。  
 动画部分采用Animator来链接不同动画触发与结束，形成移动动画和原地动画，例如行走、奔跑到房间内某处，躺下伸懒腰、坐下发呆、饥饿口渴值为零时加粮加水会奔跑到饭碗处进食喝水等状态切换。此处用方法调用移动代理与Animator来实现随机的猫咪状态切换。
 ![image](img/ani.png) 
+![image](img/randomaction.png) 
