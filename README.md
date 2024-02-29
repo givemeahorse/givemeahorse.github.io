@@ -62,3 +62,4 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 动画部分采用Animator来链接不同动画触发与结束，形成移动动画和原地动画，例如行走、奔跑到房间内某处，躺下伸懒腰、坐下发呆、饥饿口渴值为零时加粮加水会奔跑到饭碗处进食喝水等状态切换。此处用方法调用移动代理与Animator来实现随机的猫咪状态切换。
 ![image](img/ani.png) 
 ![image](img/randomaction.png) 
+![image](img/randomaction1.png) 
