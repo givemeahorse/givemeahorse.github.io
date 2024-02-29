@@ -89,3 +89,4 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 ![image](img/p5.png) 
 ![image](img/p6.png) 
 ## 模块功能
+支撑游戏的其他小模块包含ColorPicker、DOTween、niceTouch等外部resource和一些EventTrigger、mesh计算、空间数学换算、UGUI的功能使用、数据读取保存、触摸命令等。
