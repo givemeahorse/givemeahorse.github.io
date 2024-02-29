@@ -82,5 +82,5 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 这个游戏设计了喵星这个场景，能够让玩家操控猫咪在喵星球这个世界中自由探索，保持人和爱猫的牵绊联系。我想搭建一个塞尔达风格的温暖场景，出于时间的考虑，果断放弃自己进行地编的过程。筛选了大量场景模型与光照效果，最后采用如图的样式场景，同时加入了几个喵星守护神的角色模型放置在地图的不同位置。  
 自由探险模块主要涉及了地形碰撞体、猫咪CharacterController，动画切换、摇杆控制、金币赚取和场景数据传递。
 ![image](img/p3.png) 
-![image](img/p1.png) 
-![image](img/p2.png) 
+![image](img/p1.jpg) 
+![image](img/p2.jpg) 
