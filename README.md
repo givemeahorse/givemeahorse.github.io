@@ -95,3 +95,5 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 《爪印》设计之初是为了做手游版，在游戏完成后选择TapTap平台发布，在历经了多次审核中遇到的问题和debug后，最终成功登录。手游版发表成功后，进行了PC移植，之后在Steam发布。  
 目前申请软著在审核中。  
 发表这个游戏一是主要想学习体验下游戏落地的全过程，二是游戏想法的最终表达。发表前后的环节中，遇到了设备过关、版本过审、产品数据保密、是否宣发、流量数据监控等一些列现实问题。有些问题，可以适应与解决，有些问题，个人无法主宰，但是游戏发表这一环节中学到的经验也算是一种treasure吧。
+![image](img/steamstore.png) 
+![image](img/tap.jpg) 
