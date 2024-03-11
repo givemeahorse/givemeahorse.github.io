@@ -104,6 +104,7 @@ Planning route: Focus on leisure operation, design home scene and Meow planet sc
 个人正在验证另一款游戏，名字叫做《TA不是小猫咪》，核心玩法是真实物理环境反馈的猫咪对战游戏，定位为单击剧情游戏，以猫为主人公视角讲述寻找丢失的朋友，揭露黑暗真相的故事。剧情受《精灵与萤火意志》影响，核心玩法受《动物派对》与《无极道人》启发。目前已完成建模、骨骼与蒙皮权重、K帧动画、材质赋予、毛发生成等模型基础工作，正在完成地编、骨骼碰撞体与模型关节力学测试以及物理驱动动画的验证。
 ![image](img/image3.png) 
 ![image](img/image1.png) 
+![image](img/box.png) 
 ![image](img/image.png) 
 ![image](img/furkitty.png) 
 
